@@ -38,7 +38,8 @@ With IG Export’s automated scraping functionality, gathering large volumes of 
 
 
 ### Quick, Bulk Downloads for Comprehensive Data Analysis
-![Uploading IG Export-4.png…]()
+![IG Export-4](https://github.com/user-attachments/assets/c2012e8b-d938-4560-889f-353454fdead9)
+
 
 
 **Bulk Exporting to CSV and Excel**  
