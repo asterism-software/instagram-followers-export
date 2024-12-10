@@ -1,5 +1,8 @@
 # IG Export - Instagram Follower and Following Export
 
+![hero-ig-follower-export](https://github.com/user-attachments/assets/489e8e2f-6f93-4897-9a0c-8f93c395845a)
+
+
 ## Export Instagram Followers to CSV in One Click with IG Export
 
 Effortlessly export Instagram followers and following lists to CSV or Excel—fast, secure, and privacy-focused. Perfect for marketers and influencers looking to streamline social media management.
@@ -23,18 +26,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor ero
 
 **Simple, User-Friendly Interface**  
 IG Export is designed with simplicity in mind. A user-friendly interface and intuitive navigation allow you to export Instagram followers and following lists in just a few clicks. No steep learning curve—just a clean, straightforward experience that saves time and effort while managing your social media data.
+![IG Export-2](https://github.com/user-attachments/assets/180ac3d1-4567-4bbb-96b8-3f180b327905)
 
 
 ### Effortlessly Capture Data with Automated Scraping
 
 **Automated Data Export for Maximum Efficiency**  
 With IG Export’s automated scraping functionality, gathering large volumes of Instagram data has never been easier. The extension securely utilizes Instagram's official API to quickly export followers and following lists, reducing manual work and allowing you to focus on growing your reach and engagement.
+![IG Export-3](https://github.com/user-attachments/assets/c4e31e14-bfe4-4cf4-ab8f-2b4b89428018)
 
 
 ### Quick, Bulk Downloads for Comprehensive Data Analysis
 
 **Bulk Exporting to CSV and Excel**  
 Export millions of records directly to CSV or Excel files with ease, making IG Export a perfect choice for data-driven marketers and influencers. This feature supports both free and paid users, allowing for scalable solutions tailored to your needs—whether you're starting with 500 records or scaling to unlimited data for in-depth insights and management.
+![Uploading IG Export-4.png…]()
 
 
 ---
